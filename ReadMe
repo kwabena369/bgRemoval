@@ -1,0 +1,47 @@
+# Background Removal Project
+
+This project focuses on removing the background from images using computer vision techniques.
+
+## Features
+
+- Remove background from images
+- Support for various image formats
+- High accuracy and performance
+
+## Requirements
+
+- Python 3.x
+- OpenCV
+- NumPy
+
+## Installation
+
+1. Clone the repository:
+    ```
+    git clone https://github.com/yourusername/bgRemoval.git
+    ```
+2. Navigate to the project directory:
+    ```
+    cd bgRemoval
+    ```
+3. Install the required packages:
+    ```
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+1. Place your images in the `input` directory.
+2. Run the background removal script:
+    ```
+    python remove_bg.py
+    ```
+3. The output images will be saved in the `output` directory.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
